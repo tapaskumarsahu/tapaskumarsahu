@@ -16,7 +16,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p><br><br>
 <br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tapas&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=tapas&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
