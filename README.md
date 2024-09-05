@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tapas Kumar Sahu</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw0sXnZMwZAuULDioV086O2j&ust=1725647576313000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDDrqm4rIgDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapas5233&label=Profile%20views&color=0e75b6&style=flat" alt="tapas5233" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapas5233" alt="tapas5233" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,8 +15,15 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p><br><br>
+<br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tapas&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<br>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tapas5233&show_icons=true&locale=en" alt="tapas5233" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapas5233&" alt="tapas5233" /></p>
+<br clear="both">
