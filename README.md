@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapas5233&label=Profile%20views&color=0e75b6&style=flat" alt="tapas5233" /> </p>
 
-<h3 align="left">💫 About Me:</h3>
+<h3 align="left">About Me:</h3>
 - 🔭 I’m currently working on  **Microservices Project**
 
 - 🌱 I’m currently learning **DevOps**
