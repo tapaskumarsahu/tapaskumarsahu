@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Tapas Kumar Sahu</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tapas5233&label=Profile%20views&color=12C107&style=flat" alt="tapas5233" /> </p>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=tapas09&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </a>
