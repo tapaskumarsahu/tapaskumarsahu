@@ -3,6 +3,9 @@
 <h3 align="center">A passionate Backend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapas5233&label=Profile%20views&color=12C107&style=flat" alt="tapas5233" /> </p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=tapas09&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
 <p align="left"> <a href="https://twitter.com/tapas" target="blank"><img src="https://img.shields.io/twitter/follow/tapas?logo=twitter&style=for-the-badge" alt="tapas" /></a> </p>
 <h3 align="left">About Me:</h3>
 
@@ -31,7 +34,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=tapas09&show_icons=true&count_private=true&hide_border=false&theme=radical&layout=compact" align="center" /><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapas09&&theme=tokyonight" alt="tapas09" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapas09&&theme=tokyonight" alt="tapas09" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tapas09&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tapas09" /></p>
   
 <br>
@@ -43,6 +46,6 @@
 </div>
 
 <h3>Trophies:</h3>
-
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapas09&theme=radical" alt="tapas09" /></a> </p>
 
 <br clear="both">
