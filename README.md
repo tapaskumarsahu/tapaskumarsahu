@@ -37,4 +37,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapas09&&theme=radical" alt="tapas09" /></p>
 
   <h3 align="left">GitHub Trophies:</h3>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapas09&theme=juicyfresh" alt="tapas09" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapas09&theme=radical" alt="tapas09" /></a> </p>
