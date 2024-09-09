@@ -1,7 +1,7 @@
-<img align="center" alt="Coding" width="" src="https://github.com/tapas09/tapas09/blob/main/banner.jpeg">
+<img align="center" alt="Coding" width="" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
 <h1 align="center">Hi 👋, I'm Tapas Kumar Sahu</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=tapas09&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </a>
