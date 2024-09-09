@@ -29,7 +29,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p><img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,java,eclipse,git,github,gmail,idea,kali,kafka,jenkins,docker,kubernetes,linux,matlab,maven,mongodb,mysql,nodejs,postgres,postman,rabbitmq,react,angular,bootstrap" alt="tapas09" /></p>
+<p><img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,java,eclipse,git,github,gmail,idea,kali,kafka,jenkins,docker,kubernetes,linux,matlab,maven,mongodb,mysql,nodejs,postgres,postman,rabbitmq,react,angular,bootstrap,spring,tailwind,gradle" alt="tapas09" /></p>
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tapas09&show_icons=true&locale=en&layout=compact&theme=radical" alt="tapas09" /><br>
