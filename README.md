@@ -32,9 +32,9 @@
 <p><img align="center" src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,angular,react,nodejs,bootstrap,tailwind,java,spring,mysql,postgres,maven,gradle,kafka,rabbitmq,git,github,postman,eclipse,idea,kali,ubuntu,linux,docker,kubernetes,jenkins,matlab" alt="tapas09" /></p>
 
 <h3 align="left">GitHub Stats:</h3>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tapas09&show_icons=true&locale=en&layout=compact&theme=juicyfresh" alt="tapas09" /><br>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=tapas09&show_icons=true&count_private=true&hide_border=false&theme=juicyfresh&layout=compact" align="center" /><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapas09&&theme=juicyfresh" alt="tapas09" /></p>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tapas09&show_icons=true&locale=en&layout=compact&theme=radical" alt="tapas09" /><br>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=tapas09&show_icons=true&count_private=true&hide_border=false&theme=radical&layout=compact" align="center" /><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapas09&&theme=radical" alt="tapas09" /></p>
 
   <h3 align="left">GitHub Trophies:</h3>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapas09&theme=juicyfresh" alt="tapas09" /></a> </p>
