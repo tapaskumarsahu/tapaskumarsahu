@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **tapaskumar5233@gmail.com**
 
-- ⚡ Fun fact **I am very Funny😍**
+- ⚡ Fun fact **I am very Funny**
 
 
 <h3 align="left">Connect with me:</h3>
