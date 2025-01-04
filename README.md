@@ -1,6 +1,7 @@
 <img align="center" alt="Coding" width="" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
 <h1 align="center">Hi 👋, I'm Tapas Kumar Sahu</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">"A passionate Full Stack Developer from India with expertise in crafting seamless web applications, blending frontend elegance with backend efficiency. Driven by a love for coding and problem-solving, I thrive on turning ideas into impactful digital solutions."</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
 ![](https://komarev.com/ghpvc/?username=tapas&abbreviated=true)
