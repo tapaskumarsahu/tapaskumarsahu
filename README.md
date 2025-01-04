@@ -5,7 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
 ![](https://komarev.com/ghpvc/?username=tapas&abbreviated=true)
-<p align="left"> <a href="https://twitter.com/tapas" target="blank"><img src="https://img.shields.io/twitter/follow/tapas?logo=twitter&style=for-the-badge" alt="tapas" /></a> </p>
 <h3 align="left">About Me:</h3>
 
 - 🔭 I’m currently working on **Microservices Project**
