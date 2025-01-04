@@ -39,11 +39,6 @@
   <h3 align="left">GitHub Trophies:</h3>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapas09&theme=radical" alt="tapas09" /></a> </p>
 
-  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tapas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tapas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tapas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
