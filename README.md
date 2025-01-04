@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Tapas Kumar Sahu</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
-<a href="https://visitcount.itsvg.in">
+
   <img src="https://visitcount.itsvg.in/api?id=tapas09&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</a>
+
 <p align="left"> <a href="https://twitter.com/tapas" target="blank"><img src="https://img.shields.io/twitter/follow/tapas?logo=twitter&style=for-the-badge" alt="tapas" /></a> </p>
 <h3 align="left">About Me:</h3>
 
