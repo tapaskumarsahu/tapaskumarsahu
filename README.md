@@ -31,12 +31,12 @@
 <p><img align="center" src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,angular,react,nodejs,bootstrap,tailwind,java,spring,mysql,postgres,maven,gradle,kafka,rabbitmq,git,github,ubuntu,redhat,azure,gcp,aws,docker,kubernetes,jenkins,ansible,terraform" alt="tapas09" /></p>
 
 <h3 align="left">GitHub Stats:</h3>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tapas09&show_icons=true&locale=en&layout=compact&theme=radical" alt="tapas09" /><br>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=tapas09&show_icons=true&count_private=true&hide_border=false&theme=radical&layout=compact" align="center" /><br>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tapaskumarsahu&show_icons=true&locale=en&layout=compact&theme=radical" alt="tapaskumarsahu" /><br>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=tapaskumarsahu&show_icons=true&count_private=true&hide_border=false&theme=radical&layout=compact" align="center" /><br>
 
 
   <h3 align="left">GitHub Trophies:</h3>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapas09&theme=radical" alt="tapas09" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapaskumarsahu&theme=radical" alt="tapaskumarsahu" /></a> </p>
 
 ### Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
