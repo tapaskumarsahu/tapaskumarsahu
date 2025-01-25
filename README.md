@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p><img align="center" src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,angular,react,nodejs,bootstrap,tailwind,vscode,java,spring,mysql,postgres,maven,gradle,kafka,rabbitmq,postman,eclipse,idea,git,github,gitlab,ubuntu,kali,redhat,azure,gcp,aws,docker,kubernetes,jenkins,ansible,terraform,bitbucket,prometheus,grafana,redis,nginx,python,pycharm,graphql" alt="tapaskumarsahu" /></p>
+<p><img align="center" src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,angular,react,nodejs,bootstrap,tailwind,vscode,java,spring,mysql,postgres,maven,gradle,kafka,rabbitmq,postman,eclipse,idea,git,github,gitlab,ubuntu,kali,redhat,azure,gcp,aws,docker,kubernetes,jenkins,ansible,terraform,bitbucket,prometheus,grafana,redis,nginx,python,pycharm,graphql,argo" alt="tapaskumarsahu" /></p>
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tapaskumarsahu&show_icons=true&locale=en&layout=compact&theme=radical" alt="tapaskumarsahu" /><br>
