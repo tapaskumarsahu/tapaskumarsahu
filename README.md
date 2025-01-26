@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tapaskumarsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tapas kumar sahu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tapas.sahu_09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tapas" height="30" width="40" /></a>
-<a href="https://www.facebook.com/TAPAS890861/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tapas" height="30" width="40" /></a>
+<a href="https://www.facebook.com/TAPAS890861/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tapas" height="30" width="40" /></a>
 <a href="https://x.com/Tapas_5233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tapas" height="30" width="40" /></a>
 </p>
 
