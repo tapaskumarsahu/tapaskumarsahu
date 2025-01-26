@@ -35,7 +35,7 @@
 <p><img align="center" src="https://skillicons.dev/icons?i=java,spring,express,nodejs,mysql,postgres,mongodb,maven,kafka,rabbitmq,postman,git,github,eclipse,idea" alt="tapaskumarsahu" /></p>
 
 <h3 align="left">DevOps/Cloud Tools & Technologies:</h3>
-<p><img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,terraform,gitlab,ubuntu,redhat,azure,gcp,aws,bitbucket,prometheus,grafana,redis" alt="tapaskumarsahu" /></p>
+<p><img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,terraform,redis,gitlab,ubuntu,redhat,azure,gcp,aws,bitbucket,prometheus,grafana" alt="tapaskumarsahu" /></p>
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tapaskumarsahu&show_icons=true&locale=en&layout=compact&theme=radical" alt="tapaskumarsahu" /><br>
