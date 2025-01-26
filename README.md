@@ -28,7 +28,7 @@
 <a href="https://x.com/Tapas_5233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tapas" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Front-End Tools & Technologies:</h3>
+<h3 align="left">Frontend Tools & Technologies:</h3>
 <p><img align="center" src="https://skillicons.dev/icons?i=html,css,js,angular,react,bootstrap,tailwind,vscode" alt="tapaskumarsahu" /></p>
 
 <h3 align="left">Backend Tools & Technologies:</h3>
