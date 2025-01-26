@@ -32,7 +32,7 @@
 <p><img align="center" src="https://skillicons.dev/icons?i=html,css,js,angular,react,typescript,bootstrap,tailwind,vscode" alt="tapaskumarsahu" /></p>
 
 <h3 align="left">Backend Tools & Technologies:</h3>
-<p><img align="center" src="https://skillicons.dev/icons?i=java,spring,express,nodejs,mysql,postgres,mongodb,maven,kafka,rabbitmq,postman,git,github,eclipse,idea,python,django,pandaas,pycharm" alt="tapaskumarsahu" /></p>
+<p><img align="center" src="https://skillicons.dev/icons?i=java,spring,express,nodejs,mysql,postgres,mongodb,maven,kafka,rabbitmq,postman,git,github,eclipse,idea,python,django,panda,pycharm" alt="tapaskumarsahu" /></p>
 
 <h3 align="left">DevOps/Cloud Tools & Technologies:</h3>
 <p><img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,terraform,redis,ubuntu,redhat,aws,azure,gcp,gitlab,bitbucket,prometheus,grafana" alt="tapaskumarsahu" /></p>
