@@ -29,7 +29,7 @@
 </p>
 
 <h3 align="left">Frontend Tools & Technologies:</h3>
-<p><img align="center" src="https://skillicons.dev/icons?i=html,css,js,angular,react,vite,redux,typescript,bootstrap,tailwind,figma,vscode,daisy" alt="tapaskumarsahu" /></p>
+<p><img align="center" src="https://skillicons.dev/icons?i=html,css,js,angular,react,vite,redux,typescript,bootstrap,tailwind,figma,vscode,daisyui" alt="tapaskumarsahu" /></p>
 
 <h3 align="left">Backend Tools & Technologies:</h3>
 <p><img align="center" src="https://skillicons.dev/icons?i=java,spring,express,nodejs,mysql,postgres,mongodb,maven,kafka,rabbitmq,postman,git,github,eclipse,idea,python,django,pycharm,nginx" alt="tapaskumarsahu" /></p>
