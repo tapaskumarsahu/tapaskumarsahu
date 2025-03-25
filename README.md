@@ -40,11 +40,8 @@
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tapaskumarsahu&show_icons=true&locale=en&layout=compact&theme=radical" alt="tapaskumarsahu" /><br>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=tapaskumarsahu&show_icons=true&count_private=true&hide_border=false&theme=radical&layout=compact" align="center" /><br>
 
-
-  <h3 align="left">GitHub Trophies:</h3>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapaskumarsahu&theme=radical" alt="tapaskumarsahu" /></a> </p>
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">GitHub Trophies:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapaskumarsahu&theme=radical" alt="tapaskumarsahu" /></a> </p>
 
 ### Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
