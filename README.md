@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
 <h1 align="center">Hi 👋, I'm Tapas Kumar Sahu</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <h4 align="center">"An innovative developer crafting user-centric web applications through seamless frontend and backend integration, dedicated to solving complex problems and delivering impactful digital solutions."</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
@@ -42,7 +42,7 @@
 
 
   <h3 align="left">GitHub Trophies:</h3>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapaskumarsahu&theme=radical" alt="tapaskumarsahu" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapaskumarsahu" alt="tapaskumarsahu" /></a> </p>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
