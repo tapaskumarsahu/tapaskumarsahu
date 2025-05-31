@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at **[GitHub](GitHub)**
 
-- 💬 Ask me about **Core Java**
+- 💬 Ask me about **Java & Python**
 
 - 📫 How to reach me **tapaskumar5233@gmail.com**
 
