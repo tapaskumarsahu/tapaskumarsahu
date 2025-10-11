@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
-<h1 align="center">Hi 👋, I'm Tapas Kumar Sahu</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, I'm Tapas Kumar Sahu</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+%7C+JAVA+%7C+PYTHON;Cloud+and+DevOps+Engineer" />
 </p>
