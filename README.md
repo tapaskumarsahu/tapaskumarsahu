@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I am very Funny 😂**
 
-- 🏆 Certified in **AWS, Databricks, Oracle AI,  Google PM**
+- 🏆 Certified in **AWS, Databricks, Oracle, Google, IBM**
 
 
 <h3 align="left">Connect with me:</h3>
