@@ -81,14 +81,14 @@
   <a href="https://codeforces.com/profile/your-codeforces-username" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
   </a>
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  </a>
   <a href="https://topmate.io/your-topmate-username" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=308D46&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="geeksforgeeks logo" />
   </a>
   <a href="https://www.topcoder.com/members/your-topcoder-username" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Topcoder&logo=topcoder&label=&color=29A8E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="topcoder logo" />
-  </a>
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
   <a href="https://www.codechef.com/users/your-codechef-username" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codechef logo" />
