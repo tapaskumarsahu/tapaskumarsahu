@@ -20,8 +20,6 @@
 
 - 📫 How to reach me **tapaskumar5233@gmail.com**
 
-- ⚡ Fun fact **I am very Funny 😂**
-
 - 🏆 Certified in **AWS, Databricks, Oracle, Google, IBM**
 
 
