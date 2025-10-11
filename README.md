@@ -29,7 +29,7 @@
 <a href="https://www.instagram.com/tapas.sahu_09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tapas" height="30" width="40" /></a>
 <a href="https://x.com/TapasTech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tapas" height="30" width="40" /></a>
 </p>
-
+<hr>
 <h3 align="left">Frontend Tools & Technologies:</h3>
 <p><img align="center" src="https://skillicons.dev/icons?i=html,css,js,angular,react,vite,redux,typescript,bootstrap,tailwind,figma,vscode" alt="tapaskumarsahu" /></p>
 
@@ -38,7 +38,7 @@
 
 <h3 align="left">DevOps/Cloud Tools & Technologies:</h3>
 <p><img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,ubuntu,kali,redhat,aws,azure,gcp,gitlab,bitbucket,prometheus,grafana" alt="tapaskumarsahu" /></p>
-
+<hr>
 <h3 align="left">GitHub Stats:</h3>
 <img align="right" alt="Coding" width="300" padding="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tapaskumarsahu&show_icons=true&locale=en&layout=compact&theme=radical" alt="tapaskumarsahu" /><br>
@@ -46,6 +46,7 @@
 
 <h3 align="left">GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapaskumarsahu&theme=radical" alt="tapaskumarsahu" /></a> </p>
+<hr>
 
 ### Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
