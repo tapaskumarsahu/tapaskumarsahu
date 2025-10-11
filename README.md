@@ -20,6 +20,8 @@
 
 - ⚡ Fun fact **I am very Funny 😂**
 
+- 🏆 Certified in **AWS, Databricks, and Oracle AI Foundations.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
