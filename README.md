@@ -50,9 +50,7 @@
   <a href="https://www.hackerearth.com/@your-hackerearth-username" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerEarth&logo=hackerearth&label=&color=323754&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerearth logo" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
+  
   <a href="https://codeforces.com/profile/your-codeforces-username" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
   </a>
