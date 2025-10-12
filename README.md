@@ -97,50 +97,18 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <hr>
-<div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X(Twitter)&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
-  <a href="https://discord.gg/your-discord" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  </a>
-  <a href="https://www.twitch.tv/your-twitch" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
-  </a>
-  <a href="https://dev.to/your-devto-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
-  </a>
-  <a href="https://leetcode.com/your-leetcode-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
-  </a>
-  <a href="https://www.hackerrank.com/your-hackerrank-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
-  </a>
-  <a href="https://www.hackerearth.com/@your-hackerearth-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerEarth&logo=hackerearth&label=&color=323754&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerearth logo" />
-  </a>
-  <a href="https://codeforces.com/profile/your-codeforces-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
-  </a>
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
-  </a>
-  <a href="https://topmate.io/your-topmate-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=308D46&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="geeksforgeeks logo" />
-  </a>
-  <a href="https://www.topcoder.com/members/your-topcoder-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Topcoder&logo=topcoder&label=&color=29A8E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="topcoder logo" />
-  </a>
-  <a href="https://www.codechef.com/users/your-codechef-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codechef logo" />
-  </a>
-  <a href="https://topmate.io/your-topmate-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Topmate&logo=topmate&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="topmate logo" />
-  </a>
-  <a href="https://www.instagram.com/your-instagram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Keep+coding+and+creating!">
+</p>
+
+<p align="center">  
+  Made with ❤️ by <a href="https://github.com/yourusername">Tapas</a>  
+</p>
+<p align="center">
+  <a href="https://github.com/tapaskumarsahu/tapaskumarsahu">⭐ Star this repo</a> if you like it!
+</p>
+
+<p align="center">
+  © 2025 <a href="https://github.com/tapaskumarsahu">Tapas</a>.  
+  Released under the <a href="./LICENSE">MIT License</a>.
+</p>
