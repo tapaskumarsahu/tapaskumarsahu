@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on **Microservices Project**
 
-- 🌱 I’m currently learning **AI, ML, and Agentic AI**
+- 🌱 I’m currently learning **AI, ML & Agentic AI**
 
 - 👨‍💻 All of my projects are available at **[GitHub](GitHub)**
 
-- 💬 Ask me about **JavaScript, React, Java & Python**
+- 💬 Ask me about **JavaScript, Java & Python**
 
 - 📫 How to reach me **tapaskumar5233@gmail.com**
 
