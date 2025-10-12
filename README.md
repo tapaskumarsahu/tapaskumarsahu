@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://x.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X(Twitter)&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=X(Twitter)&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
   <a href="https://discord.gg/your-discord" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
@@ -44,8 +44,8 @@
   <a href="https://leetcode.com/your-leetcode-username" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
   </a>
-  <a href="https://topmate.io/your-topmate-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=308D46&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="geeksforgeeks logo" />
+  <a href="https://www.hackerrank.com/your-hackerrank-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
   </a>
   <a href="https://www.hackerearth.com/@your-hackerearth-username" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerEarth&logo=hackerearth&label=&color=323754&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerearth logo" />
@@ -59,8 +59,8 @@
   <a href="https://github.com/your-github-username" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
-  <a href="https://www.hackerrank.com/your-hackerrank-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
+  <a href="https://topmate.io/your-topmate-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=308D46&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="geeksforgeeks logo" />
   </a>
   <a href="https://www.topcoder.com/members/your-topcoder-username" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Topcoder&logo=topcoder&label=&color=29A8E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="topcoder logo" />
