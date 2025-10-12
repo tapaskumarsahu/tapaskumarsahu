@@ -41,8 +41,8 @@
   <a href="https://leetcode.com/your-leetcode-username" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
   </a>
-  <a href="https://topmate.io/your-topmate-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Topmate&logo=topmate&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="topmate logo" />
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
   <a href="https://www.hackerrank.com/your-hackerrank-username" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
@@ -68,8 +68,8 @@
   <a href="https://www.codechef.com/users/your-codechef-username" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codechef logo" />
   </a>
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  <a href="https://topmate.io/your-topmate-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Topmate&logo=topmate&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="topmate logo" />
   </a>
   <a href="https://www.instagram.com/your-instagram" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
