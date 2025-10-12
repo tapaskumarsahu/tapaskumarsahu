@@ -26,7 +26,7 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/tapaskumarsahu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://x.com/your-twitter-handle" target="_blank">
@@ -35,23 +35,23 @@
   <a href="https://www.twitch.tv/your-twitch" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
   </a>
-  <a href="https://discord.gg/your-discord" target="_blank">
+  <a href="https://discord.gg/tapas47" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-username" target="_blank">
+  <a href="https://leetcode.com/u/tapaskumarsahu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
   </a>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/tapaskumarsahu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
   <a href="https://www.hackerrank.com/your-hackerrank-username" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
   </a>
-  <a href="https://www.hackerearth.com/@your-hackerearth-username" target="_blank">
+  <a href="https://www.hackerearth.com/@Tapas5233" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerEarth&logo=hackerearth&label=&color=323754&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerearth logo" />
   </a>
   
-  <a href="https://codeforces.com/profile/your-codeforces-username" target="_blank">
+  <a href="https://codeforces.com/profile/Tapas52" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
   </a>
   <a href="https://topmate.io/your-topmate-username" target="_blank">
@@ -60,13 +60,13 @@
   <a href="https://dev.to/your-devto-username" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
   </a>
-  <a href="https://www.topcoder.com/members/your-topcoder-username" target="_blank">
+  <a href="https://profiles.topcoder.com/tapas52" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Topcoder&logo=topcoder&label=&color=29A8E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="topcoder logo" />
   </a>
-  <a href="https://www.codechef.com/users/your-codechef-username" target="_blank">
+  <a href="https://www.codechef.com/users/tapas52" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codechef logo" />
   </a>
-  <a href="https://topmate.io/your-topmate-username" target="_blank">
+  <a href="https://topmate.io/tapas_kumar_sahu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Topmate&logo=topmate&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="topmate logo" />
   </a>
   <a href="https://www.instagram.com/your-instagram" target="_blank">
