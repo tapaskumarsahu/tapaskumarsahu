@@ -102,7 +102,7 @@
 </p>
 
 <p align="center">  
-  Made with ❤️ by <a href="https://github.com/yourusername">Tapas</a>  
+  Made with ❤️ by <a href="https://github.com/tapaskumarsahu">Tapas</a>  
 </p>
 <p align="center">
   <a href="https://github.com/tapaskumarsahu/tapaskumarsahu">⭐ Star this repo</a> if you like it!
