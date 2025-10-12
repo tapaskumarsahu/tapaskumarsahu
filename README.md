@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **[GitHub](GitHub)**
 
-- 💬 Ask me about **JavaScript, Java & Python**
+- 💬 Ask me about **JavaScript, React, Java & Python**
 
 - 📫 How to reach me **tapaskumar5233@gmail.com**
 
