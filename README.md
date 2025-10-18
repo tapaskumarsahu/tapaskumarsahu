@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+%7C+JAVA+%7C+PYTHON;Cloud+and+DevOps+Engineer" />
 </p>
-<h4 align="center">"An innovative developer crafting user-centric web applications through seamless frontend and backend integration, dedicated to solving complex problems and delivering impactful digital solutions."</h4>
+<h4 align="center">"An innovative full-stack developer crafting user-centric web applications through seamless frontend and backend integration, leveraging expertise in DevOps, cybersecurity, and generative AI to solve complex challenges and deliver impactful digital solutions."</h4>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
