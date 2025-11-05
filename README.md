@@ -57,7 +57,7 @@
   <a href="https://www.geeksforgeeks.org/user/tapas52/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=308D46&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="geeksforgeeks logo" />
   </a>
-  <a href="https://dev.to/tapas_kumar" target="_blank">
+  <a href="https://dev.to/tapaskumarsahu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
   </a>
   <a href="https://profiles.topcoder.com/tapas52" target="_blank">
