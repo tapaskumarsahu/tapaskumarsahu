@@ -38,7 +38,7 @@
   <a href="https://discord.gg/tapas47" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
-  <a href="https://leetcode.com/u/tapaskumarsahu" target="_blank">
+  <a href="https://leetcode.com/u/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
   </a>
   <a href="https://github.com/tapaskumarsahu" target="_blank">
