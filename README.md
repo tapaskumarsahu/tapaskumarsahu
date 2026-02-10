@@ -109,6 +109,6 @@
 </p>
 
 <p align="center">
-  © 2025 <a href="https://github.com/tapaskumarsahu">Tapas</a>.  
+  © 2026 <a href="https://github.com/tapaskumarsahu">Tapas</a>.  
   Released under the <a href="./LICENSE">MIT License</a>.
 </p>
