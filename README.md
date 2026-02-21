@@ -89,6 +89,11 @@
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=tapas&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="tapaskumarsahu" /><br>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=tapaskumarsahu&show_icons=true&count_private=true&hide_border=false&theme=radical&layout=compact" align="center" /><br>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&theme=react&show_icons=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react"/>
+</p>
+
 <h3 align="left">GitHub Trophies:</h3>
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=tapaskumarsahu&theme=radical" alt="tapaskumarsahu" /></a> </p>
 <hr>
