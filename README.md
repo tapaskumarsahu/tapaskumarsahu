@@ -91,6 +91,8 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&theme=dark&show_icons=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react"/>
+
 </p>
 
 <h3 align="left">GitHub Trophies:</h3>
