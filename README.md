@@ -112,3 +112,4 @@
   © 2026 <a href="https://github.com/tapaskumarsahu">Tapas</a>.  
   Released under the <a href="./LICENSE">MIT License</a>.
 </p>
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
