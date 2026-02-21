@@ -86,7 +86,7 @@
 <hr>
 <h3 align="left">GitHub Stats:</h3>
 <img align="right" alt="Coding" width="300" padding="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=tapas&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="tapaskumarsahu" /><br>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=your-github-username&theme=radical&show_icons=true" alt="tapaskumarsahu" /><br>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=tapaskumarsahu&show_icons=true&count_private=true&hide_border=false&theme=radical&layout=compact" align="center" /><br>
 
 <p align="left">
