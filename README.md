@@ -90,8 +90,7 @@
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=tapaskumarsahu&show_icons=true&count_private=true&hide_border=false&theme=radical&layout=compact" align="center" /><br>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&theme=react&show_icons=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&theme=dark&show_icons=true"/>
 </p>
 
 <h3 align="left">GitHub Trophies:</h3>
