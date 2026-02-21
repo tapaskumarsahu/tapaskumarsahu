@@ -112,4 +112,7 @@
   © 2026 <a href="https://github.com/tapaskumarsahu">Tapas</a>.  
   Released under the <a href="./LICENSE">MIT License</a>.
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api?username=tapas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tapas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tapas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
