@@ -116,3 +116,5 @@
   © 2026 <a href="https://github.com/tapaskumarsahu">Tapas</a>.  
   Released under the <a href="./LICENSE">MIT License</a>.
 </p>
+
+![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96&animation=glow)
