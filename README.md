@@ -79,7 +79,10 @@
 <p><img align="center" src="https://skillicons.dev/icons?i=html,css,js,angular,react,vite,redux,materialui,typescript,bootstrap,tailwind,figma,vscode" alt="tapaskumarsahu" /></p>
 
 <h3 align="left">Backend Tools & Technologies:</h3>
-<p><img align="center" src="https://skillicons.dev/icons?i=java,spring,express,nodejs,mysql,postgres,mongodb,maven,kafka,rabbitmq,postman,git,github,eclipse,idea,python,django,flask,pytorch,tensorflow,pycharm,nginx,redis,graphql,openshift" alt="tapaskumarsahu" /></p>
+<p><img align="center" src="https://skillicons.dev/icons?i=java,spring,express,nodejs,mysql,postgres,mongodb,maven,kafka,rabbitmq,postman,git,github,eclipse,idea,python,django,flask,pytorch,tensorflow,pycharm,nginx,redis,graphql,openshift,supabase," alt="tapaskumarsahu" /></p>
+
+<h3 align="left">AI Tools & LLMs:</h3>
+<p><img align="center" src="https://skillicons.dev/icons?i="claude,opoenai,gemini,grok,githubcopilot" alt="tapaskumarsahu" /></p>
 
 <h3 align="left">DevOps/Cloud Tools & Technologies:</h3>
 <p><img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,ubuntu,kali,redhat,aws,azure,gcp,gitlab,bitbucket,prometheus,grafana" alt="tapaskumarsahu" /></p>
