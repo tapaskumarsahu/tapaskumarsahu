@@ -87,8 +87,8 @@
 <h3 align="left">GitHub Stats:</h3>
 <img align="right" alt="Coding" width="300" padding="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
-![](https://streak-stats.demolab.com/?user=tapaskumarsahu&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api?username=tapaskumarsahu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=tapaskumarsahu&theme=tokyonight&hide_border=false)<br/>
 
 <h3 align="left">GitHub Trophies:</h3>
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=tapaskumarsahu&theme=tokyonight" alt="tapaskumarsahu" /></a></p>
