@@ -113,8 +113,3 @@
   © 2026 <a href="https://github.com/tapaskumarsahu">Tapas</a>.  
   Released under the <a href="./LICENSE">MIT License</a>.
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tapaskumarsahu&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
