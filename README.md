@@ -81,9 +81,6 @@
 <h3 align="left">Backend Tools & Technologies:</h3>
 <p><img align="center" src="https://skillicons.dev/icons?i=java,spring,express,nodejs,mysql,postgres,mongodb,maven,kafka,rabbitmq,postman,git,github,eclipse,idea,python,django,flask,pytorch,tensorflow,pycharm,nginx,redis,graphql,fastapi,openshift,supabase" alt="tapaskumarsahu" /></p>
 
-<h3 align="left">AI Tools & LLMs:</h3>
-<p><img align="center" src="https://skillicons.dev/icons?i="claude,opoenai,gemini,grok,githubcopilot" alt="tapaskumarsahu" /></p>
-
 <h3 align="left">DevOps/Cloud Tools & Technologies:</h3>
 <p><img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,ubuntu,kali,redhat,aws,azure,gcp,gitlab,bitbucket,prometheus,grafana" alt="tapaskumarsahu" /></p>
 <hr>
@@ -116,8 +113,3 @@
   © 2026 <a href="https://github.com/tapaskumarsahu">Tapas</a>.  
   Released under the <a href="./LICENSE">MIT License</a>.
 </p>
-
-### 🤖 AI Tools & Technologies
-
-[![AI Tools](https://skillicons.dev/icons?i=chatgpt,claude,gemini,githubcopilot,ollama,huggingface,langchain,pytorch,tensorflow&perline=3)](https://skillicons.dev)
-
