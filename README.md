@@ -115,5 +115,10 @@
   Released under the <a href="./LICENSE">MIT License</a>.
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=tapaskumarsashu&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tapas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tapas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tapas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
