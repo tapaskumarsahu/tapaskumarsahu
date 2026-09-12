@@ -91,15 +91,12 @@
 ![](https://github-readme-stats.shion.dev/api?username=tapaskumarsahu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tapaskumarsahu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=tapas&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="tapaskumarsahu" /><br>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=tapaskumarsahu&show_icons=true&count_private=true&hide_border=false&theme=radical&layout=compact" align="center" /><br>
-
 <h3 align="left">GitHub Trophies:</h3>
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=tapaskumarsahu&theme=radical" alt="tapaskumarsahu" /></a> </p>
 <hr>
 
 ### Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <hr>
 <p align="center">
