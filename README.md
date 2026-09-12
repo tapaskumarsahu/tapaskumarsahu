@@ -117,9 +117,7 @@
   Released under the <a href="./LICENSE">MIT License</a>.
 </p>
 
-![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=50)
-![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=50)
-![twitter](https://www.readmecodegen.com/api/social-icon?name=twitter&size=50)
-![reddit](https://www.readmecodegen.com/api/social-icon?name=reddit&size=50)
-![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=50)
+### 🤖 AI Tools & Technologies
+
+[![AI Tools](https://skillicons.dev/icons?i=chatgpt,claude,gemini,githubcopilot,ollama,huggingface,langchain,pytorch,tensorflow&perline=3)](https://skillicons.dev)
 
