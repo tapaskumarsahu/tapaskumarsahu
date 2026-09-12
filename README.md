@@ -85,9 +85,10 @@
 <p><img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,ubuntu,kali,redhat,aws,azure,gcp,gitlab,bitbucket,prometheus,grafana" alt="tapaskumarsahu" /></p>
 <hr>
 <h3 align="left">GitHub Stats:</h3>
-<img align="right" alt="Coding" width="300" padding="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 ![](https://streak-stats.demolab.com/?user=tapaskumarsahu&theme=tokyonight&hide_border=false)<br/>
+<img align="right" alt="Coding" width="300" padding="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+
 ![](https://github-readme-stats.shion.dev/api?username=tapaskumarsahu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tapaskumarsahu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
