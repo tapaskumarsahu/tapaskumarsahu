@@ -117,9 +117,9 @@
   Released under the <a href="./LICENSE">MIT License</a>.
 </p>
 
-![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96&animation=glow)
-![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=96&animation=glow)
-![twitter](https://www.readmecodegen.com/api/social-icon?name=twitter&size=96&animation=glow)
-![reddit](https://www.readmecodegen.com/api/social-icon?name=reddit&size=96&animation=glow)
-![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=96&animation=glow)
+![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=50)
+![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=50)
+![twitter](https://www.readmecodegen.com/api/social-icon?name=twitter&size=50)
+![reddit](https://www.readmecodegen.com/api/social-icon?name=reddit&size=50)
+![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=50)
 
