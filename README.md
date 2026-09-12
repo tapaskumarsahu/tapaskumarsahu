@@ -115,6 +115,5 @@
   Released under the <a href="./LICENSE">MIT License</a>.
 </p>
 
-![](https://streak-stats.demolab.com/?user=tapaskumarsahu&theme=amoled-black&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api?username=tapaskumarsahu&theme=amoled-black&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tapaskumarsahu&theme=amoled-black&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=tapas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
