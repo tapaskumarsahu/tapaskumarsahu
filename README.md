@@ -95,7 +95,7 @@
 <hr>
 
 ### Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=juicyfresh)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <hr>
 <p align="center">
