@@ -94,6 +94,18 @@
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=tapaskumarsahu&theme=radical" alt="tapaskumarsahu" /></a></p>
 <hr>
 
+
+
+
+
+<h3 align="left">GitHub Trophies:</h3>
+<p align="left"> 
+  <a href="https://github.com">
+    <img src="https://github-profile-trophy.vercel.app/?username=tapaskumarsahu&theme=radical" alt="tapaskumarsahu trophies" />
+  </a>
+</p>
+<hr>
+
 ### Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
